@@ -35,8 +35,8 @@ The tool performs the following tasks:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/smakamali/ChatWithDocs.git
-cd ChatWithDocs
+git clone https://github.com/Harsheys21/FullTextScreener.git
+cd FullTextScreener
 ```
 
 2. Install dependencies:
