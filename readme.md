@@ -278,9 +278,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 This tool uses the following open-source libraries:
-- llama-index for document indexing and retrieval
+- Llama-index for document indexing and retrieval
 - HuggingFace Transformers for language and embedding models
 - Mistral AI for LLMs
 - Neo4j for graph database storage
 - PyTorch for deep learning operations
-- pdfplumber for PDF processing
+- `pdfplumber` for PDF processing
